@@ -1,4 +1,4 @@
-# Project 0: my_tunez
+# Project 0: my_tunez (Ida Wang & Yedoh Kang)
 A music library organizer thing. Project outline for convenience.
 
 ### Basic Structure
